@@ -1,0 +1,13 @@
+.image {
+    width: 50px;
+}
+
+.span{
+    display: inline-block;
+    width: 75%;
+    text-align: right;
+}
+
+.copy:hover {
+    cursor: pointer;
+}
